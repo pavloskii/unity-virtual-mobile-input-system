@@ -1,0 +1,19 @@
+{
+  "name": "pavloskii.virtual-mobile-input-system",
+  "version": "1.0.0",
+  "description": "Simple virtual mobile input system",
+  "keywords": [
+    "virtual",
+    "mobile",
+    "input",
+    "system"
+  ],
+  "author": "Igor Pavloski",
+  "license": "MIT",
+  "displayName": "Virtual Mobile Input System",
+  "unity": "2021.1",
+  "dependencies": {
+    "inputsystem": "1.0.2",
+    "cinemachine": "2.7.9"
+  }
+}
